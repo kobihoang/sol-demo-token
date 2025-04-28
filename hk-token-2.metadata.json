@@ -2,7 +2,7 @@
   "name": "HK Token 2",
   "symbol": "HKDEMO",
   "description": "My custom token on Solana",
-  "image": "https://i.ibb.co/gF69J6ps/image.png",
+  "image": "https://raw.githubusercontent.com/kobihoang/sol-demo-token/refs/heads/main/image.png",
   "external_url": "https://yourwebsite.com",
   "seller_fee_basis_points": 500,
   "attributes": [
@@ -22,7 +22,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://i.ibb.co/gF69J6ps/image.png",
+        "uri": "https://raw.githubusercontent.com/kobihoang/sol-demo-token/refs/heads/main/image.png",
         "type": "image/png"
       }
     ],
