@@ -3,7 +3,7 @@
   "symbol": "HKDEMO",
   "description": "My custom token on Solana",
   "image": "https://raw.githubusercontent.com/kobihoang/sol-demo-token/refs/heads/main/image.png",
-  "external_url": "https://yourwebsite.com",
+  "external_url": "https://kobihoang.dev",
   "seller_fee_basis_points": 500,
   "attributes": [
     {
@@ -29,7 +29,7 @@
     "category": "image",
     "creators": [
       {
-        "address": "YOUR_WALLET_ADDRESS",
+        "address": "HvM5seJmQWQjFNp6vxEm1CwX53yGQHDBHnZHPyQ9Vu24",
         "share": 100
       }
     ]
